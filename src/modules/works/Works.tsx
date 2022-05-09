@@ -46,7 +46,7 @@ export const Works = () => {
                                    </span>
                                    
                                    <h1 className = 'ml-2 font-light text-base'>
-                                        Website
+                                        Websited
                                    </h1>
                               </div>
                          </div>
