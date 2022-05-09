@@ -4,20 +4,20 @@ import { HeaderController } from '../modules/display/HeaderController';
 import { Header } from '../modules/ui/header/Header';
 import { Footer } from '../modules/ui/footer/Footer';
 
-import { Home } from '../modules/home/Home';
+import { Works } from '../modules/works/Works';
 
-const indexPage = () => {
+const worksPage = () => {
      return (
           <>
-               <HeaderController embed = {{}} title = 'Home' />
+               <HeaderController embed = {{}} title = 'Works' />
 
-               <Header />
+               <Header currentActiveItem = 'Works' />
                     <Layout>
-                         <Home />
+                         <Works />
                     </Layout>
                <Footer />
           </>
      );
 };
 
-export default indexPage;
+export default worksPage;

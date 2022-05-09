@@ -30,15 +30,15 @@ export const Home = () => {
                                    <IoLogoGithub />
                               </a>
 
-                              <a href = 'https://www.github.com/sndrkrly' className = 'transition duration-500 hover:text-emerald-500'>
+                              <a href = 'https://www.instagram.com/sndrkrly' className = 'transition duration-500 hover:text-emerald-500'>
                                    <IoLogoInstagram />
                               </a>
 
-                              <a href = 'https://www.github.com/sndrkrly' className = 'transition duration-500 hover:text-emerald-500'>
+                              <a href = 'https://www.twitter.com/visionbysndr' className = 'transition duration-500 hover:text-emerald-500'>
                                    <IoLogoTwitter />
                               </a>
 
-                              <a href = 'https://www.github.com/sndrkrly' className = 'transition duration-500 hover:text-emerald-500'>
+                              <a href = 'https://www.facebook.com/sandorkiraly0' className = 'transition duration-500 hover:text-emerald-500'>
                                    <IoLogoFacebook />
                               </a>
                          </div>
@@ -59,7 +59,7 @@ export const Home = () => {
                          About me
                     </h1>
 
-                    <p className = 'p-4 font-normal'>
+                    <p className = 'p-4 font-light'>
                          I'm 18, a self-taught developer based in Hungary. <br />
                          I’ve been obsessed with computers since I was little. <br />
                          I love learning new technologies- and programming languages, <br />
@@ -75,7 +75,7 @@ export const Home = () => {
                     </h1>
 
                     <div className = 'w-full p-4'>
-                         <p className = 'font-normal'>
+                         <p className = 'font-light'>
                               Building products from planning and designing <br /> 
                               all the way to solving real-life problems with code. <br />
 
@@ -88,7 +88,7 @@ export const Home = () => {
                               </p>
 
                               <p className = 'text-gray-500 font-light'>
-                                   VSCode, Git, GitHub, Fish shell, Typescript, Node, Next.js, TailwindCSS
+                                   VSCode, Git, GitHub, Fish shell, Typescript, Next.js, TailwindCSS
                               </p>
 
                               <p className = 'mt-3 font-bold'>
@@ -96,7 +96,7 @@ export const Home = () => {
                               </p>
 
                               <p className = 'text-gray-500 font-light'> 
-                                   Axios, Chakra, Postgresql, MySQL, MongoDB, <br />
+                                   Node, Axios, Chakra, PostgreSQL, MongoDB, <br />
                                    Swift, Nuxt, GraphQL, HTML5, CSS3, Sass, Javascript, Svelte <br />
                                    Lua, MySQL, PHP
                               </p>
@@ -104,22 +104,12 @@ export const Home = () => {
                     </div>
                </div>
 
-               <div id = 'projects' className = 'md:text-left text-center'>
-                    <h1 className = 'underline decoration-4 underline-offset-8 font-bold'>
-                         Projects
-                    </h1>
-
-                    <p className = 'p-4 font-normal'>
-                         ide kerül valami
-                    </p>
-               </div>
-
                <div id = 'hobby' className = 'md:text-left text-center'>
                     <h1 className = 'underline decoration-4 underline-offset-8 font-bold'>
                          I ♥
                     </h1>
 
-                    <p className = 'p-4 font-normal'>
+                    <p className = 'p-4 font-light'>
                          Art, Music, Drawing, Making Beats, Learning new technologies
                     </p>
                </div>
