@@ -40,7 +40,7 @@ export const Header: NextPage<HeaderProps> = ({ currentActiveItem }) => {
                                              </a>
                                         </span>
 
-                                        <a href = '/works' className = {currentActiveItem ? 'font-light bg-primary dark:bg-stone-900 text-black dark:text-white p-2' : 'font-light hover:underline hover:underline-offset-8'}>
+                                        <a href = '/works' className = {currentActiveItem ? 'font-semibold bg-white bg-opacity-10 dark:bg-stone-900 dark:bg-opacity-30 text-black dark:text-white p-2' : 'font-light hover:underline hover:underline-offset-8'}>
                                              Works
                                         </a>
                                    </div>
