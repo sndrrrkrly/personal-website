@@ -2,7 +2,8 @@ const options = {
      images: {
          domains: [
                 'jam.systems',
-                'margelo.io', 
+                'margelo.io',
+                'craftz.dog',
                 'uploads-ssl.webflow.com', 
                 'media-exp1.licdn.com',
                 'img.shields.io',
