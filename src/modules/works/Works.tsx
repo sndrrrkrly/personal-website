@@ -25,7 +25,7 @@ export const Works = () => {
                          <h1 className = 'font-bold text-sky-500'>
                               tale
                          </h1>
-                         
+
                          <span className = 'ml-1 font-semibold bg-white bg-opacity-30 dark:bg-stone-900 rounded-8 p-1 text-xs'>
                               2020-11 - 2021-06
                          </span>
@@ -33,8 +33,11 @@ export const Works = () => {
 
                     <div className = 'p-1 mt-2'>
                          <p className = 'ml-4 font-light'>
-                              A simple Hungarian social-network (like StockX), for help people to sell HYPEBEAST clothes, <br />
-                              and not use Facebook Groups for that.
+                              A simple social-network (like StockX), for help people to sell HYPEBEAST clothes, <br />
+                              and not use Facebook Groups for that. <br /> <br />
+
+                              You can check the code, because it's Open Source. <br />
+                              <strong>https://github.com/sndrkrly/tale</strong>
                          </p>
 
                          <div className = 'flex flex-col ml-6 mt-2 space-y-2'> 
