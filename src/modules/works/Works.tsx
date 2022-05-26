@@ -35,8 +35,8 @@ export const Works = () => {
 
                     <div className = 'p-1 mt-2'>
                          <p className = 'ml-4 font-light'>
-                              A Markdown note-taking app with 100+ plugins, cross-platform and <br /> 
-                              encrypted data sync support. The life-time revenue is more than $200k.
+                              A simple social-network like StockX, for help people to sell HYPEBEAST clothes, <br />
+                              and not use Facebook Groups for that.
                          </p>
 
                          <div className = 'flex-col ml-6 mt-2 space-y-2'>

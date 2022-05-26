@@ -18,7 +18,7 @@ export const HeaderController: NextPage<HeaderControllerProps> = ({
  }) => {
      return (
           <Header>
-               { title ? <title>{title}- Sándor Király</title> : <title>Sándor Király</title> };
+               { title ? <title>{title} - Sándor Király</title> : <title>Sándor Király</title> };
                <meta name = 'description' content = {description} />
                { owner ? <meta name = 'author' content = {owner} /> : ''};
                <meta name = 'keywords' content = {`Sándor Király, Sándor Király${ additionalKeywords?.map((k) => `, ${k}`) }`} />

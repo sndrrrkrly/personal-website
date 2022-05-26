@@ -46,7 +46,7 @@ export const Home = () => {
 
                     <div className = 'md:p-1 ml-5'>
                          <img
-                              src = 'https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-1/270110090_2582747538535902_1070912278348438766_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-6&_nc_sid=7206a8&_nc_ohc=0RyNo5uEvIQAX9E6EwA&_nc_ht=scontent-vie1-1.xx&oh=00_AT_t6woOumd48S5QdhWiJTIi45SjTJ-Y8gf01Ky5IHzbcw&oe=627CFE37'
+                              src = 'https://media-exp1.licdn.com/dms/image/C5603AQGbBQ05c62OIA/profile-displayphoto-shrink_200_200/0/1653059571821?e=1658966400&v=beta&t=yx6O73U6OZqtGcGmSH5X9yffE8456GkaPsMi9bLqdnE'
                               height = {120}
                               width = {120}
                               className = 'rounded-full ring-2 ring-white'
