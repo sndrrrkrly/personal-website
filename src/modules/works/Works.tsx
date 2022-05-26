@@ -1,8 +1,6 @@
 import { ChevronRightIcon } from '@chakra-ui/icons';
 import { HeaderController } from '../../modules/display/HeaderController';
 
-
-
 export const Works = () => {
      return (
           <>
