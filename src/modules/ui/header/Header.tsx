@@ -40,8 +40,9 @@ export const Header: NextPage<HeaderProps> = ({ currentActiveItem }) => {
                                              </a>
                                         </span>
 
-                                        <a href = '/works' className = {currentActiveItem ? 'font-light bg-primary dark:bg-stone-900 text-black dark:text-white p-2' : 'font-light hover:underline hover:underline-offset-8'}>Works</a>
-                                        <a href = '/blog' className = 'font-light hover:underline hover:underline-offset-8'>Blog</a>
+                                        <a href = '/works' className = {currentActiveItem ? 'font-light bg-primary dark:bg-stone-900 text-black dark:text-white p-2' : 'font-light hover:underline hover:underline-offset-8'}>
+                                             Works
+                                        </a>
                                    </div>
                               </div>
                               
@@ -54,3 +55,11 @@ export const Header: NextPage<HeaderProps> = ({ currentActiveItem }) => {
           </>
      );
 };
+
+/*
+
+<a href = '/blog' className = 'font-light hover:underline hover:underline-offset-8'>
+     Blog
+</a>
+
+*/
